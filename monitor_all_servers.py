@@ -1,7 +1,5 @@
 ##############################################
 # Weblogic Server WLST Script
-# Author: Ahmed Aboulnaga
-# Date:   2020-03-16
 ##############################################
 
 import os
